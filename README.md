@@ -1,6 +1,6 @@
 # About
 
-Robo Friends is a simple app build to practice react. I have used api to call for robots and used tachyons for styling. To view the site [click here](robo-friends-saad.netlify.app) 
+Robo Friends is a simple app build to practice react. I have used api to call for robots and used tachyons for styling. To view the site [click here](https://robo-friends-saad.netlify.app/) 
 
 # Screenshot
 
